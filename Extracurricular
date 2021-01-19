@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<title>Extracirricular</title>
+<head>
+<meta charset="utf-8">
+</head>
+  <body>
+<body style= "background-color:#ebebeb;">
+<h1 style= "background-color:#a5bde5;text-align: center; font-family: Arial Black">Extracirrular Activities</h1>
+<ul style="list-style: circle"> 
+  <li><h2 id="Science">Science Club</h2></li>
+ <p><a href= "science.html" >Jump to Science Club</a>
+   <li><h2 id="Drama">Drama Club</h2></li>
+  <p><a href="drama.html">Jump to Drama Club</a>
+    <li><h2 id="Maths">Mathematics Club</h2></li>
+  <a href="maths.html">Jump to Mathematics Club</a>
+  
+</ul> 
+<h1 style= "background-color:#a5bde5;text-align: center; font-family: Arial Black">Interest</h1>
+<ol style="list-style: lower-alpha">
+<li>Psychology</li>
+<li>Structure of brain</li>
+</ol>
+  
+</body>
+</html>
